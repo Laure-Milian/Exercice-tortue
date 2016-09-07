@@ -1,0 +1,22 @@
+html {
+	background-color: #B0B0B0;
+}
+
+header {
+	border: blue solid 2px;
+	color: blue;
+	text-align: center;
+}
+
+.rouge {
+	color: red;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+}
+
+p {
+	font-size: 22px;
+}
